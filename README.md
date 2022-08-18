@@ -3,4 +3,5 @@
 
 #### dataset link
 
-    https://github.com/UCSD-AI4H/COVID-CT
+
+https://github.com/UCSD-AI4H/COVID-CT
